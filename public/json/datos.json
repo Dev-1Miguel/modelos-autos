@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "marca": "Tesla",
+    "modelo": "Model 3",
+    "año": "2023-01-01",
+    "isElectrico": true,
+    "poster": "https://th.bing.com/th/id/OIP.R28xbY57QqqO4pjlkrF30wAAAA?rs=1&pid=ImgDetMain",
+    "precio": 40000.00
+  },
+  {
+    "id": 2,
+    "marca": "Nissan",
+    "modelo": "Leaf",
+    "año": "2023-03-15",
+    "isElectrico": true,
+    "poster": "https://th.bing.com/th/id/OIP.BazrxG6NTMPcXrE0p7Ex2gAAAA?rs=1&pid=ImgDetMain",
+    "precio": 28000.00
+  },
+  {
+    "id": 3,
+    "marca": "Ford",
+    "modelo": "Mustang Mach-E",
+    "año": "2022-02-20",
+    "isElectrico": true,
+    "poster": "https://th.bing.com/th/id/OIP.6AssNFFN-WR0INMm0nplngAAAA?rs=1&pid=ImgDetMain",
+    "precio": 45000.00
+  },
+  {
+    "id": 4,
+    "marca": "Chevrolet",
+    "modelo": "Bolt EV",
+    "año": "2024-04-10",
+    "isElectrico": true,
+    "poster": "https://th.bing.com/th/id/OIP.FVETyMu5jarCa8A5sXI43AAAAA?rs=1&pid=ImgDetMain",
+    "precio": 27000.00
+  },
+  {
+    "id": 5,
+    "marca": "BMW",
+    "modelo": "I4",
+    "año": "2023-09-05",
+    "isElectrico": true,
+    "poster": "https://th.bing.com/th/id/OIP.2qhmnLc3ldHZIW2ta1GyzQAAAA?rs=1&pid=ImgDetMain",
+    "precio": 52000.00
+  },
+  {
+    "id": 6,
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "año": "2020-03-15",
+    "isElectrico": false,
+    "poster": "https://th.bing.com/th/id/OIP.nKE6xL9qBJYOyrLa28qy6gAAAA?rs=1&pid=ImgDetMain",
+    "precio": 20000.00
+  },
+  {
+    "id": 7,
+    "marca": "Honda",
+    "modelo": "Civic",
+    "año": "2019-07-25",
+    "isElectrico": false,
+    "poster": "https://engineerine.com/wp-content/uploads/2023/03/2023-honda-civic-type-r-us-spec-139-1661956666.jpgcrop0.648xw0.594xh0.114xw0.jpg",
+    "precio": 23000.00
+  },
+  {
+    "id": 8,
+    "marca": "Ford",
+    "modelo": "F-150",
+    "año": "2022-08-10",
+    "isElectrico": false,
+    "poster": "https://th.bing.com/th/id/OIP.30neyYL6cSoXtYHeN0vgTwAAAA?rs=1&pid=ImgDetMain",
+    "precio": 35000.00
+  },
+  {
+    "id": 9,
+    "marca": "Mazda",
+    "modelo": "CX-5",
+    "año": "2021-12-1",
+    "isElectrico": false,
+    "poster": "https://th.bing.com/th/id/OIP.cnqwG9-itqpcgUDFsKqNBgAAAA?rs=1&pid=ImgDetMain",
+    "precio": 27000.00
+  },
+  {
+    "id": 10,
+    "marca": "Hyundai",
+    "modelo": "Elantra",
+    "año": "2023-06-30",
+    "isElectrico": false,
+    "poster": "https://th.bing.com/th/id/OIP.JdhBGc5DQbsFCtWbTGEEzQAAAA?rs=1&pid=ImgDetMain",
+    "precio": 22000.00
+  }
+]
